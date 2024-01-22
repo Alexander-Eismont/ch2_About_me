@@ -7,7 +7,7 @@
 Welcome to my profile! I am 29 years old. And in addition to my main job, I am a student at the Netology online school. I'm studying to be a C++ developer. To date I have successfully completed the following courses:
 - [x] Introductory information for students “C++ Developer”
 - [x] C++ Programming Basics
-- [ ] Git - version control system
+- [x] Git - version control system
 - [ ] Basic programming in C++
 - [ ] Algorithms and data structures
 - [ ] Advanced C++ Programming
