@@ -1,4 +1,4 @@
-# Hi I'm Alexander 👋
+# Hi! I'm Alexander 👋
 
 [![Telegram](https://img.shields.io/badge/-telegram-red?color=blue&logo=telegram&logoColor=white)](https://t.me/Alexander_Eismont)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?&logo=instagram&logoColor=white)](https://www.instagram.com/mr_aleksandr_eismont)
