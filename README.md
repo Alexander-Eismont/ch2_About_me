@@ -6,7 +6,7 @@
 
 Welcome to my profile! I am 29 years old. And in addition to my main job, I am a student at the Netology online school. I'm studying to be a C++ developer. To date I have successfully completed the following courses:
 - [x] Introductory information for students “C++ Developer”
-- [x] C++ Programming Basics
+- [x] [C++ Programming Basics](https://github.com/Alexander-Eismont/CPP-Programming-Basics)
 - [x] [Git - version control system](https://github.com/Alexander-Eismont/About-me)
 - [ ] [Basic programming in C++](https://github.com/Alexander-Eismont/Basic-programming-in-CPP)
 - [ ] Algorithms and data structures
