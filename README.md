@@ -8,7 +8,7 @@ Welcome to my profile! I am 29 years old. And in addition to my main job, I am a
 - [x] Introductory information for students “C++ Developer”
 - [x] [Fundamentals of C++ Programming](https://github.com/Alexander-Eismont/CPP-Programming-Basics)
 - [x] [Git - version control system](https://github.com/Alexander-Eismont/About-me)
-- [ ] [Basic programming in C++](https://github.com/Alexander-Eismont/Basic-programming-in-CPP)
+- [x] [Basic programming in C++](https://github.com/Alexander-Eismont/Basic-programming-in-CPP)
 - [ ] Algorithms and data structures
 - [ ] Advanced C++ Programming
 - [ ] Working with databases
